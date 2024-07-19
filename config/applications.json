@@ -1887,6 +1887,14 @@
 		"link": "https://semiconductor.samsung.com/consumer-storage/magician/",
 		"winget": "Samsung.SamsungMagician"
 	},
+	"samsungsmartswitch": {
+		"category": "Utilities",
+		"choco": "samsung-smartswitch",
+		"content": "Samsung SmartSwitch",
+		"description": "Smart Switch seamlessly transfers multiple types of data to your new Samsung Galaxy from different devices in the way that works best for you.",
+		"link": "https://www.samsung.com/in/apps/smart-switch/",
+		"winget": "Samsung.SmartSwitch"
+	},
 	"sandboxie": {
 		"category": "Utilities",
 		"choco": "sandboxie",
